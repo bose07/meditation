@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GFG | Breath!</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Setting dialog -->
+    <string name="settings_title_text">Settings</string>
+    <string name="settings_inhale_text">Inhale</string>
+    <string name="settings_exhale_text">Exhale</string>
+    <string name="settings_hold_text">Hold</string>
+    <string name="settings_close_text">Close</string>
+
+</resources>
